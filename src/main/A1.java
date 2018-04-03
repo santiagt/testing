@@ -1,4 +1,7 @@
+
+
 public class A1 {
+
 	public String cut2Positions(String str) {
 		if (str.length() <= 2)
 			return str.replaceAll("A", "");
